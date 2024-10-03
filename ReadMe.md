@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on The Cinephile<br>🌱 I’m currently learning Python and CSS
+🌱 I’m currently learning Python and CSS
 
 
 ## 🌐 Socials:
